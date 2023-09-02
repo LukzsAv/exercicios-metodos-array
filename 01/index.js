@@ -31,6 +31,7 @@ const frutasAlfa = frutas.sort((a, b)=>{
     }else{
         return 0
     }
+    
 })
 
 const frutasCres = frutasC.sort((a, b)=>{
