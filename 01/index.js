@@ -2,7 +2,7 @@ const numeros = [10, 1, 5, 50, 20, 30, 3, 4, 8, 2]
 const numerosD = [10, 1, 5, 50, 20, 30, 3, 4, 8, 2]
 const numerosU = [10, 1, 5, 50, 20, 30, 3, 4, 8, 2]
 const frutas = ["Banana", "Amora", "abacaxi", "uva", "Pera"]
-const frutasC = ["Banana", "Amora", "abacaxi", "uva", "Pera"]
+const frutasC = ["Banana", " Amora", "abacaxi", "uva", "Pera"]
 
 const numerosCres = numeros.sort((a, b)=>{
     return a - b
